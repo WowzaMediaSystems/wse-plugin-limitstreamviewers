@@ -1,4 +1,4 @@
-# wse-plugin-limitstreamviewers
+# Limit Stream Viewers
 Limit Stream Viewers is a module for [Wowza Streaming Engine™ media server software](https://www.wowza.com/products/streaming-engine) that allows you the ability to limit total number of clients by stream.
 
 ## Prerequisites
