@@ -14,7 +14,7 @@ This module provides the following functionality:
 The stream won't play for any viewers above the concurrent users limit. What these viewers see will vary depending on the behavior of their player.
 
 ## More resources
-[Wowza Streaming Engine Server-Side API Reference](https://www.wowza.com/resources/WowzaStreamingEngine_ServerSideAPI.pdf)
+[Wowza Streaming Engine Server-Side API Reference](https://www.wowza.com/resources/serverapi/)
 
 [How to extend Wowza Streaming Engine using the Wowza IDE](https://www.wowza.com/forums/content.php?759-How-to-extend-Wowza-Streaming-Engine-using-the-Wowza-IDE)
 
@@ -27,5 +27,3 @@ To use the compiled version of this module, see [How to limit the number of view
 
 ## License
 This code is distributed under the [Wowza Public License](https://github.com/WowzaMediaSystems/wse-plugin-limitstreamviewers/blob/master/LICENSE.txt).
-
-![alt tag](http://wowzalogs.com/stats/githubimage.php?plugin=wse-plugin-limitstreamviewers)
